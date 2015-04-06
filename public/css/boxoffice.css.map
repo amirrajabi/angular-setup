@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,KAAK,EAAE,IAAI",
+"sources": ["../../include/sass/modules/header.scss"],
+"names": [],
+"file": "boxoffice.css"
+}
